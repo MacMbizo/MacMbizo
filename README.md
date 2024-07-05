@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MacMbizo
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, OpenCV, R, SSIS, ETL, BI
+- 🌱 I’m currently learning DevOps, CI/CD, Python, OpenCV, R, SSIS, ETL, BI
 - 💞️ I’m looking to collaborate on any project that helps me to grow in the above.
 - 📫 How to reach me macmbizo@gmail.com
 
